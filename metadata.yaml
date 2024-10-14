@@ -1,0 +1,28 @@
+_repo: Kevat-b-Runoja_74520
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jalkanen, Huugo
+    birthdate: 1888
+    deathdate: 1969
+    gutenberg_agent_id: '49131'
+    url: http://www.gutenberg.org/2009/agents/49131
+    wikipedia: https://fi.wikipedia.org/wiki/Huugo_Jalkanen
+description: ''
+gutenberg_issued: '2024-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74520'
+language: fi
+pgterms:marc905: 20240827122824jalkanen
+pgterms:marc906: '1912'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bKust.Oy Kansa, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kevät : $b Runoja'
+url: http://www.gutenberg.org/ebooks/74520
